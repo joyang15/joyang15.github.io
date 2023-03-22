@@ -3327,3 +3327,19 @@ input, select, textarea {
 			}
 
 		}
+/* Image align */
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+		  
+		  
+.image1 {
+	flex-basis: 40%
+}
+		  
+.text {
+	font-size: 20px;
+	padding-left: 20px;
+}
